@@ -3,7 +3,7 @@ header {
   justify-content: flex-start;
   flex-direction: row;
   align-items: center;
-  background-color: #1a1a1a;
+  background-color: #040c14;
   padding: 0px 20px;
   margin-bottom: 20px;
   height: 60px;
@@ -15,16 +15,16 @@ header {
 main {
   margin: 80px 10px;
 }
+.theme {
+  color: #444952;
+}
 footer {
-  background-color: #1a1a1a;
-  color: #9f9f9f;
+  background-color: #040c14;
+  color: #a6adbb;
   display: flex;
   justify-content: center;
   align-items: center;
   margin-top: 20px;
-  position: absolute;
   bottom: 0;
-  left: 0;
-  right: 0;
   height: 60px;
 }

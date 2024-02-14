@@ -8,19 +8,19 @@
 
 .form-movie label {
   margin-right: 10px;
+  color: #f45962;
 }
 
 .form-movie input {
   font-size: 1em;
   border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.5em 2em;
+  padding: 0.5em;
   border: 0;
-  background-color: #747bff15;
+  background-color: #1b222a;
 }
 
 .form-movie input::placeholder {
-  color: rgba(240, 248, 255, 0.367);
+  color: #a6adbb;
 }
 
 .form-movie button {
@@ -33,6 +33,7 @@
   background-color: #747bff4a;
   cursor: pointer;
   transition: border-color 0.25s;
+  color: white;
 }
 .form-movie button:hover {
   border-color: #646cff;
