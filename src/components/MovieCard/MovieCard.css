@@ -1,0 +1,26 @@
+.movie-card {
+  background-color: #747bff1a;
+  border-radius: 8px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  height: 350px;
+  text-align: center;
+}
+
+.movie-card img {
+  width: auto;
+  height: 200px;
+}
+
+.movie-card h3 {
+  min-height: 50px;
+}
+
+.movie-detail {
+  background-color: #1b222a;
+  border-radius: 8px;
+  padding: 10px;
+}
